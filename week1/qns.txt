@@ -15,7 +15,3 @@ Draw flowcharts for the following:
 8. Generate first 15 fibonacci numbers (2 mark)
 
 Total 10 marks for each lab session.
-
-Bonus Question (for additional marks)
-
-9. Solving the Towers of Hanoi problem with 5 discs (1 mark) 
