@@ -1,0 +1,27 @@
+week2
+------
+
+Write programs for the following. (Note: Input to all the programs is to be provided by the user. No hard coding!)
+
+1. Compute the surface area of 
+
+a sphere of radius'r'. (1.5 mark)
+a cylinder of radius'r' and length 'l'. (1.5 mark)
+a cuboid of length 'l', breadth 'b and height 'h'. (1.5 mark)
+
+2. Find the sum of any given three numbers. (1 mark)
+
+3. Find the area and perimeter of 
+
+a square (1.5 mark)
+a rectangle (1.5 mark)
+a circle (1.5 mark)
+
+
+For those of you who have completed all the above three questions, here are some extra questions
+
+
+4. Given a number 'n', print the values of n^2 and n^3.  (1 mark)
+
+
+5. Given two complex numbers as input, find their sum and difference. (1 mark)
