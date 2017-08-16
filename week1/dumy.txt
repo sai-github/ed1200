@@ -1,1 +1,21 @@
 week1 
+-----
+
+Questions
+
+Draw flowcharts for the following:
+
+1. Adding 3 numbers (1 mark)
+2. Adding 'n' numbers (1 mark)
+3. Average of 3 numbers (1 mark)
+4. Average of 'n' numbers (1 mark)
+5. Factorial of a given number (1 marks)
+6. Find largest and smallest of 3 numbers (2 mark)
+7. Given 3 numbers check if they form a pythagorean triplet or not (1 mark)
+8. Generate first 15 fibonacci numbers (2 mark)
+
+Total 10 marks for each lab session.
+
+Bonus Question (for additional marks)
+
+9. Solving the Towers of Hanoi problem with 5 discs (1 mark) 
