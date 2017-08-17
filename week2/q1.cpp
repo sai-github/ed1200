@@ -21,7 +21,7 @@ int main(){
 	scanf("%f %f",&r2,&l2);
 	scanf("%f %f %f",&l3,&b3,&h3);
 	
-	printf("%f %f %f \n",4*PI*pow(r1,2),2*PI*r2*l2+2*PI*pow(r2,2),2*(pow(l3,2)+pow(b3,2)+pow(h3,2)));
+	printf("%f %f %f \n",4*PI*pow(r1,2),2*PI*r2*l2+2*PI*pow(r2,2),2*(l3*b3+b3*h3+h3*l3));
 	//getch();
 	return 0;
 }
