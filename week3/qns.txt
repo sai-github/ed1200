@@ -1,0 +1,25 @@
+Write programs for the following. (Note: Input to all the programs is to be provided by the user. No hard coding!)
+
+1. Given temperature in Centigrade, convert it into Fahrenheit. (1 mark)
+
+2. Calculate the Simple Interest and Amount, given the Principal (P), Rate (R) and Time (N). (1 mark)
+
+3. Calculate the quotient and remainder of a given number when divided by 2, 3, and 5 respectively. (1 mark)
+
+4. Find the average rainfall over 5 days in a region. (5 inputs from the user. Values are in cm) (1 mark)
+
+5. Given a two digit number as input, print it in reverse. (eg. if user input is 63, output should be 36) (1 mark)
+
+6. Given the number of Rs. 20 notes, Rs 50 notes and Rs. 100 notes, calculate the total amount. (1 mark)
+
+7. Given time in number of minutes( any number < 1440), display the time in hours format. (eg. 1135 minutes --> 18 hours 55 minutes). (1 mark)
+
+8. Given a quadratic equation ax^2 + bx + c = 0, find the roots of the equation. (a, b, c are user inputs) (1 mark)
+
+9. Find the dot and cross product of two vectors (a1 i + b1 j + c1 k  and  a2 i + b2 j + c2 k) in 3D. (a1, b1, c1 and a2, b2, c2 are user inputs) (2 mark)
+
+Bonus Questions:
+
+10. Calculate the CGPA of a student, who has 4 subjects in a semester. User should input grade and no of credits for each subject. (1 mark)
+
+11. Evaluate the following expression: 4x^5 - 3x^4 - 8x^3 + 12x^2 + x - 9. (Value of x - user input)  (1 mark)
