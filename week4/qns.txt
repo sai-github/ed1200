@@ -1,0 +1,51 @@
+Write programs for the following.
+
+Note 1: Input to all the programs is to be provided by the user. No hard coding!
+
+Note 2: Unless specified as integers, assume all numbers to be real numbers (float).
+
+1. Find the largest and smallest among
+
+    a. two numbers (using ternary operator) (0.5 marks)
+
+    b. three numbers (using ternary operator) (0.5 marks)
+
+2. Given an integer 'n' as input (n = 1 to 12) print corresponding month name using switch case. (ed. if n=8, output is August) (0.5 marks)
+
+3. Given an integer 'n', check if it is an Armstrong number or not. (eg. 153 is an Armstrong number. 153 = 1^3 + 5^3 + 3^3) (1 mark)
+
+4. Print the first 'n' fibonacci numbers (n excludes 0 and 1). (eg. if n=5, output is 0,1, 1,2,3,5,8) (0.5 marks)
+
+5. Given an integer 'n' as input, find its reverse and check if it is a palindrome or not. (n can have any no. of digits) (eg. 121 is a palindrome 243 is not) (1 mark)
+
+6. Given an integer 'n' as input, check if it is a prime number or not. (1 mark)
+
+7. Compute - sigma (sigma (i * j)). First sigma runs from 1 to n1 and second sigma runs from 1 to n2. (n1, n2 - user inputs, integers) (1 mark)
+
+8. Calculate the sum of the following series up-to 'n' terms (n - integer; x - real num)
+
+    a. S1 = 1 + 1/4 + 1/9 + 1/16 + ...  (1 mark)
+
+    b. S2 = 1 + 1/8 - 1/27 + 1/64 - ...  (1 mark)
+
+    c. S3 = 1 + x + x^2/2! + x^3/3! + x^4/4! + ... (This is the expansion of e^x) (1 mark)
+
+    d. S4 = 1 - x^2/2! + x^4/4! - x^6/6! + ... (This is the expansion of cos(x)) (1 mark)
+
+Bonus Questions
+
+9. Redo Question 3 where the number 'n' can have any no. of digits (1 mark)
+
+10. Print the first 'n' prime numbers. (n - integer, user input) (1 mark)
+
+11. Print the Pascal's Triangle on screen (n lines; n - integer and user input) (1 mark)
+
+                        1
+
+                      1   1
+
+                    1   2   1
+
+                  1   3   3   1
+
+                1   4   6   4   1           and so on
