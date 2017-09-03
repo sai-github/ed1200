@@ -40,6 +40,9 @@ int main(){
 	s=1;
 	//Maximum limit of fact exceeds when n>7, then you need to go for long long int
 	//if n>7 adjust back to n=7 or use appropriate data type for Cos calculation
+	
+	//as approximation for cos doesn't work for large x, it shold be brought into the interval (-PI,PI) or
+	//increase the terms, but long float cannot support numbers big after 7! so fit x into (-PI,PI).
 	int temp;
 	temp=x/(2*PI);
 	x=x-2*PI*temp;
