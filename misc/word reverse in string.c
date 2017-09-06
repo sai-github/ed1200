@@ -1,3 +1,4 @@
+//Reverse words in string without external functions
 #include<stdio.h>
 
 int length(char* s){
