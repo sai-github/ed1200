@@ -1,0 +1,49 @@
+Write programs for the following.
+
+Note 1: Input to all the programs is to be provided by the user. No hard coding!
+
+Note 2: Unless specified as integers, assume all numbers to be real numbers (float).
+
+1. Read 'n' real numbers into an array and then print each element. (1 mark)
+
+2. Read 'n' integers into an array. Display the max and min among the elements. (1 mark)
+
+3. Read 'n' integers into an array. Print the odd and even indexed elements seperately. (1 mark)
+
+4. Read 'n' integers into an array. Print all the odd numbers and even numbers seperately. (1 mark)
+
+5. Read 'n' integers into an array. Set every third element to zero. (1 mark)
+
+6. Read 'n' integers into an array. Count the number of positives, negatives and zeroes. (1 mark)
+
+7. Read 'n' integers into an array. Swap the adjacent elements of an array.  (1 mark)
+
+   For eg. Input array  ->  1,-5,10, 2, 9,-3.
+
+           Output array -> -5, 1, 2,10,-3, 9.
+
+8. Read 'n' integers into an array. Print the elements in the reverse order. (1 mark)
+
+9. Read 'n' integers into an array. Reverse the array. (1 mark)
+
+   Note: The elements of the array should actually be swapped. Do not just print in reverse order. Also do not use a second array.
+
+10. Read 'n' integers into an array. Perform a search for a given number 'num' and print if it is present in the array or not. If yes, also print the index. In case of multiple entries, print the first occurrence alone. (1 mark)
+
+11. Attempt Question 4 of the Quiz 1. (0 mark.)
+
+12. Attempt Question 6 of the Quiz 1. (0 mark.)
+
+Bonus Questions
+
+13. Print the following pattern, given the value of 'n'. (1 mark)
+
+4 3 2 1 1 2 3 4
+4 3 2     2 3 4
+4 3         3 4
+4             4
+4 3         3 4
+4 3 2     2 3 4
+4 3 2 1 1 2 3 4
+
+This is a pattern for n=4.

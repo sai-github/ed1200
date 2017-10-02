@@ -1,0 +1,27 @@
+Write programs for the following
+
+1. Implement Bubble sort on an array of 'n' integers. (Descending order) n - user input (1.5 mark)
+
+2. Implement Selection sort on an array of 'n' integers. (Descending order) n - user input (1.5 mark)
+
+3. Read an array of 'n' integers. Sort it in ascending order. (You may use any of the two methods discussed above). Perform Binary Search on the sorted array. (2 mark)
+
+4. Given an input integer, display its binary equivalent. (1.5 mark)
+
+5. Given a binary number, display its decimal equivalent. (1.5 mark)
+
+2D Arrays
+
+Note: All inputs are from the user. Assume matrix size - m*n. In case of two matrices assume sizes are m1*n1 and m2*n2. m, n, m1, m2, n1, n2 all are user inputs.
+
+6. Read a matrix of real numbers and display them. (1 mark)
+
+7. Read a matrix of integers and print its transpose. (1 mark)
+
+8. Read two matrices A and B. Display the sum of the two matrices. (1 mark)
+
+9. Read a matrix A of integers. Set every element to zero except the diagonal elements. Print the output. (1 mark)
+
+10. Read two matrices A and B of integers. Print the product of the matrices. (2 mark)
+
+11. Read a 3*3 matrix. Find it’s determinant. (1 mark)
